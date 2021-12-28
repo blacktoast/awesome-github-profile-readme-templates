@@ -7,16 +7,12 @@
 
 ## BASIC
 
-- [caneco - 텍스트많이](https://github.com/caneco)
-- [chiphuyen - 텍스트많이](https://github.com/chiphuyen)
-- [cdthomp1](https://github.com/cdthomp1)
-- [chaitanya](https://github.com/chaitanya-pratap-singh)
-- [AVS1508](https://github.com/AVS1508)
-- [AkuraDiary](https://github.com/AkuraDiary)
-- [ApoorvTyagi](https://github.com/ApoorvTyagi)
 - [Aditya664](https://github.com/Aditya664)
+- [cdthomp1](https://github.com/cdthomp1)
+- [AVS1508](https://github.com/AVS1508)
+- [ApoorvTyagi](https://github.com/ApoorvTyagi)
 - [Aleksey-Voko](https://github.com/Aleksey-Voko)
-- [aayushi-droid](https://github.com/aayushi-droid)
 - [aastha12](https://github.com/aastha12)
-- [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-
+- [DHANOLA](https://github.com/DHANOLA)
+- [Davekibh](https://github.com/Davekibh)
+- [NavodyaPasqual](https://github.com/NavodyaPasqual)
